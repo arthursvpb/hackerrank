@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/js10-regexp-2/submissions/code/157330013
+// https://www.hackerrank.com/challenges/js10-regexp-2/topics
 // https://regexr.com/542gp
 // https://www.w3schools.com/jsref/jsref_obj_regexp.asp
 
