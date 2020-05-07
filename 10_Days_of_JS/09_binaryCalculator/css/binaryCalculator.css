@@ -1,0 +1,29 @@
+body{
+    width: 33%;
+}
+.btn{
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+#res{
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+#btns > #btn0, #btn1{
+    background-color: lightgreen;
+    color: brown;
+}
+#btns > #btnClr, #btnEql{
+    background-color: darkgreen;
+    color: white;
+}
+
+#btns > #btnSum, #btnSub, #btnMul, #btnDiv{ 
+    background-color: black;
+    color: red;
+}
